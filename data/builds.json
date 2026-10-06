@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "title": "Berserker Gladiator - Endgame PvE",
+    "class": "Gladiator",
+    "author": "AionVeteran",
+    "description": "A high-damage dual-wield Gladiator focused on burst windows and AoE clearing for endgame dungeons. Prioritizes crit chance and attack speed to chain Berserk uptime.",
+    "skills": [
+      "Whirlwind Slash",
+      "Berserker's Wrath",
+      "Rupture Strike",
+      "Iron Skin",
+      "Battle Cry"
+    ],
+    "gear": "Prioritize Crit Rate manastones (Rank 5+) on weapon, Attack Speed on gloves, and HP on armor. Aim for a +10 enchanted dual-wield set before tackling hard-mode dungeons.",
+    "createdAt": "2026-09-15T10:22:00.000Z"
+  },
+  {
+    "id": "e5f6g7h8",
+    "title": "Holy Support Cleric",
+    "class": "Cleric",
+    "author": "HealbotPrime",
+    "description": "Full support Cleric built around raid healing and group buffs. Not a solo build — shines in 6-man and 12-man content where sustained healing and cleanse matter more than DPS.",
+    "skills": [
+      "Healing Light",
+      "Greater Heal",
+      "Purifying Wave",
+      "Blessing of Protection",
+      "Resurrection"
+    ],
+    "gear": "Stack Magic Boost and Healing Boost manastones. Prioritize cooldown reduction on shoulders and cast speed on gloves. Keep a secondary wand for emergency DPS phases.",
+    "createdAt": "2026-09-18T14:05:00.000Z"
+  },
+  {
+    "id": "i9j0k1l2",
+    "title": "Aether Burst Sorcerer",
+    "class": "Sorcerer",
+    "author": "FrostNova",
+    "description": "Burst-oriented Sorcerer using a Fire/Ice hybrid rotation. Opener with Ice Chain to lock targets, then unload Flame Cage and Aether Hold for massive single-target damage. Great for PvP and boss fights.",
+    "skills": [
+      "Flame Cage",
+      "Ice Chain",
+      "Aether Hold",
+      "Meteor Strike",
+      "Mana Shield"
+    ],
+    "gear": "Magic Boost manastones on all slots. Book and orb should have +Magic Accuracy. Consider a Fire resist set for PvP matchups against other Sorcerers.",
+    "createdAt": "2026-09-22T09:40:00.000Z"
+  },
+  {
+    "id": "m3n4o5p6",
+    "title": "Shadow Assassin - PvP Ganker",
+    "class": "Assassin",
+    "author": "SilentBlade",
+    "description": "Stealth-focused Assassin built to pick off backline healers and casters in open-world PvP and Arenas. Relies on burst windows and quick escapes rather than sustained fights.",
+    "skills": [
+      "Shadow Walk",
+      "Ambush Strike",
+      "Poison Blade",
+      "Vanish",
+      "Heart Seeker"
+    ],
+    "gear": "Crit Rate and Attack Speed manastones. Dagger should be enchanted with bonus PvP damage. Keep a stealth-detection charm in inventory for counter-ganking.",
+    "createdAt": "2026-09-25T20:15:00.000Z"
+  },
+  {
+    "id": "q7r8s9t0",
+    "title": "Spiritmaster Pet Tank",
+    "class": "Spiritmaster",
+    "author": "SummonerKing",
+    "description": "An unconventional Spiritmaster build that uses the Fire Spirit as a pseudo-tank while the caster applies DoTs from range. Very strong in solo PvE and small-scale PvP.",
+    "skills": [
+      "Summon Fire Spirit",
+      "Curse of Weakness",
+      "Pain Rune",
+      "Soul Absorption",
+      "Spirit's Sacrifice"
+    ],
+    "gear": "Magic Boost and HP manastones. Prioritize pet-related set bonuses. A secondary Earth Spirit summon is recommended for tankier bosses.",
+    "createdAt": "2026-09-28T11:00:00.000Z"
+  }
+]
